@@ -1,7 +1,7 @@
 # Install Docker
 
-  sudo apt-get update
-  sudo apt-get install \
-      ca-certificates \
-      curl \
-      gnupg
+    sudo apt-get update
+    sudo apt-get install \
+        ca-certificates \
+        curl \
+        gnupg
