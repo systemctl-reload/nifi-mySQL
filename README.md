@@ -25,3 +25,13 @@ kayring
     sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin -y
 	
     sudo apt install docker-compose -y
+    
+git
+
+	git clone https://github.com/systemctl-reload/nifi-mySQL.git
+ 
+	cd nifi-mySQL
+ 
+	sudo docker-compose up -d
+ 
+ 
